@@ -1,6 +1,6 @@
 <!-- <h2 id="publications" style="margin: 2px 0px -15px;">Recent Publications ([Full List](site._includes.full-publications.md))</h2> -->
 
-## Recent Publications ([Full List]({{ site.baseurl }}/full-publications))
+## Selected Publications ([Full List]({{ site.baseurl }}/full-publications))
 
 <!-- 
 <div class="publications">
