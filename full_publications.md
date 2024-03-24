@@ -6,17 +6,9 @@ layout: homepage
 ## Full List of Publications
 
 
-
-#### 2024
-
 * INVISILINE: Invisible Plausibly-Deniable Storage <br>
 S. Pinjala, B. Carbunar, A. Chakraborti, R. Sion <br>
 IEEE Symposium on Security & Privacy (S&P '24)
-
-
-<hr>
-
-#### 2023
 
 * [Distance-Aware Private Set Intersection](https://www.usenix.org/system/files/sec23summer_333-chakraborti-prepub.pdf)<br>
 A. Chakraborti, G. Fanti, M. K. Reiter <br>
@@ -30,18 +22,11 @@ Usenix Security Symposium (Usenix Security '23)
 A. Chakraborti, M. K. Reiter <br>
 IEEE European Symposium on Security & Privacy (EuroS&P '23)
 
-<hr>
-
-
-#### 2021
 
 * [PEARL: Plausibly Deniable Flash Translation Layer using Write-Once Memory coding](https://www.usenix.org/conference/usenixsecurity21/presentation/chen-chen)<br>
 C. Chen, A. Chakraborti, R. Sion <br>
 Usenix Security Symposium (Usenix Security '21)
 
-<hr>
-
-#### 2020
 
 * [Sqoram: Read-optimized sequential write-only oblivious RAM](https://petsymposium.org/popets/2020/popets-2020-0012.pdf)<br>
 A. Chakraborti, R. Sion <br>
@@ -51,10 +36,6 @@ Privacy Enhancing Technologies Symposium (PETS '20)
 C. Chen, A. Chakraborti, R. Sion <br>
 Privacy Enhancing Technologies Symposium (PETS '20)
 
-
-<hr>
-
-#### 2019
 
 * [rORAM: Efficient Range ORAM with O(log2N) Locality](https://www.ndss-symposium.org/ndss-paper/roram-efficient-range-oram-with-olog2-n-locality)<br>
 A. Chakraborti, A. Aviv, S. G. Choi, T. Mayberry, D. Roche, R. Sion <br>
@@ -68,9 +49,10 @@ ISOC Network and Distributed System Security Symposium (NDSS '19)
 C. Chen, A. Chakraborti, R. Sion <br>
 Privacy Enhancing Technologies Symposium (PETS '19)
 
-<hr>
+* [ConcurDB: Concurrent query authentication for outsourced databases](https://ieeexplore.ieee.org/document/8847328)<br>
+S. Bajaj, A. Chakraborti, R. Sion <br>
+IEEE Transactions on Knowledge and Data Engineering (TKDE '19)
 
-#### 2018 and Earlier
 
 * [DataLair: Efficient Block Storage with Plausible Deniability against Multi-Snapshot Adversaries](https://petsymposium.org/2017/papers/issue3/paper44-2017-3-source.pdf) <br>
 A. Chakraborti, C. Chen, R. Sion <br>
@@ -80,5 +62,11 @@ Privacy Enhancing Technologies Symposium (PETS '17)
 A. Chakraborti, B. Jain, J. Kasiak, T. Zhang, D. Porter, R. Sion <br>
 ACM Asia-Pacific Workshop on Systems (APSys '17)
 
+* [Practical foundations of history independence](https://ieeexplore.ieee.org/abstract/document/7299314) <br>
+S. Bajaj, A. Chakraborti, R. Sion <br>
+IEEE Transactions on Information Forensics and Security (TIFS '17)
 
 <hr>
+
+#### Book Chapters 
+
