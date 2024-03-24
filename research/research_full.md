@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## Research Interests
+### Research Interests
 
 I build cryptographically secure systems and design protocols that address privacy concerns in emerging technologies. 
 My research combines *cryptography with system design*, and from this vantage point, I work on a variety of topics which includes 
