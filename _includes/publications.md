@@ -57,5 +57,5 @@
 
 * INVISILINE: Invisible Plausibly-Deniable Storage <br>
 S. Pinjala, B. Carbunar, A. Chakraborti, R. Sion <br>
-IEEE Symposium on Security \& Privacy (S\&P'24)
+IEEE Symposium on Security & Privacy (S&P'24)
 
