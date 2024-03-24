@@ -70,3 +70,11 @@ IEEE Transactions on Information Forensics and Security (TIFS '17)
 
 #### Book Chapters 
 
+* [Cloud Computing Security: Foundations and Research Directions](https://par.nsf.gov/biblio/10348939-cloud-computing-security-foundations-research-directions)  <br>
+A. Chakraborti, R. Curtmola, J. Katz, J. Nieh, A. R. Sadeghi, R. Sion, Y. Zhang <br>
+Foundations and Trends in Privacy and Security
+
+
+* Secure Data Outsourcing <br>
+A. Chakraborti, R. Sion <br>
+Encyclopedia of Cryptography, Security and Privacy
