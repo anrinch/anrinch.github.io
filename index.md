@@ -9,9 +9,9 @@ As part of my research I build secure databases and cloud computing technologies
 
 My current research involves answering the following questions (among other things)
 
-- [How do we make smart vehicle technologies more robust against adversarial interference?](site._includes.research.md)
-- [How do we make secure messaging services truly private and censorship-resilient?](site._includes.research.md)
-- [How do we design efficient cryptographic tools for statistical frameworks?](site._includes.research.md)
+- [How do we make smart vehicle technologies more robust against adversarial interference?](site._includes/research.md)
+- [How do we make secure messaging services truly private and censorship-resilient?](site._includes/research.md)
+- [How do we design efficient cryptographic tools for statistical frameworks?](site._includes/research.md)
 
 
 I was a postdoctoral research associate in the Department of Computer Science at [Duke University](https://cs.duke.edu) working with [Prof. Michael Reiter](https://reitermk.github.io/). I obtained my PhD from [Stony Brook University](https://www.cs.stonybrook.edu) where I was advised by [Prof. Radu Sion](https://zxr.io/). Even before that I obtained my undergraduate degree in Computer Science from [Jadavpur University](https://en.wikipedia.org/wiki/Jadavpur_University), India
