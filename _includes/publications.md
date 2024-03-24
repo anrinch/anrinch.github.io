@@ -1,6 +1,6 @@
-<!-- <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications ([Full List](site._includes.full-publications.md))</h2> -->
+<!-- <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications ([Full List](site._includes.full_publications.md))</h2> -->
 
-## Selected Publications ([Full List]({{ site.baseurl }}/full-publications))
+## Selected Publications ([Full List]({{ site.baseurl }}/full_publications))
 
 <!-- 
 <div class="publications">
