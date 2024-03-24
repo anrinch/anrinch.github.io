@@ -67,11 +67,11 @@ Usenix Security Symposium (USENIX Security '23)
 A. Chakraborti, D. Suciu, R. Sion <br>
 Usenix Security Symposium (Usenix Security '23)
 
-* [Privately Estimating Region Containment and Overlaps with Applications to Collaborate Sensor Output Validation](https://reitermk.github.io/papers/2023/EuroSP.pdf)<bf>
+* [Privately Estimating Region Containment and Overlaps with Applications to Collaborate Sensor Output Validation](https://reitermk.github.io/papers/2023/EuroSP.pdf)<br>
 A. Chakraborti, M. K. Reiter <br>
 IEEE European Symposium on Security & Privacy (EuroS&P '23)
 
-* [PEARL: Plausibly Deniable Flash Translation Layer using Write-Once Memory coding](https://www.usenix.org/conference/usenixsecurity21/presentation/chen-chen)
+* [PEARL: Plausibly Deniable Flash Translation Layer using Write-Once Memory coding](https://www.usenix.org/conference/usenixsecurity21/presentation/chen-chen)<br>
 C. Chen, A. Chakraborti, R. Sion <br>
 Usenix Security Symposium (Usenix Security '21)
 
