@@ -57,5 +57,12 @@
 
 * INVISILINE: Invisible Plausibly-Deniable Storage <br>
 S. Pinjala, B. Carbunar, A. Chakraborti, R. Sion <br>
-IEEE Symposium on Security & Privacy (S&P'24)
+IEEE Symposium on Security & Privacy (S&P '24)
 
+* [Distance-Aware Private Set Intersection](https://www.usenix.org/system/files/sec23summer_333-chakraborti-prepub.pdf)<br>
+A. Chakraborti, G. Fanti, M. K. Reiter
+Usenix Security Symposium (USENIX Security '23)
+
+* [Wink: Deniable Secure Messaging](https://www.usenix.org/conference/usenixsecurity23/presentation/chakraborti-wink)<br>
+A. Chakraborti, D. Suciu, R. Sion
+Usenix Security Symposium (Usenix Security '23)
