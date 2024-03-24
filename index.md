@@ -21,4 +21,4 @@ I was a postdoctoral research associate in the Department of Computer Science at
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+{% include_relative _includes/teaching.md %}
