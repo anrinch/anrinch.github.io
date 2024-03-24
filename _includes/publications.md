@@ -55,38 +55,7 @@
 </div> -->
 
 
-* [On the Difficulty of Defending Contrastive Learning against Backdoor Attacks](https://arxiv.org/pdf/2312.09057.pdf) <br>
-Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang <br>
-USENIX Security Symposium (USENIX'24)
+* INVISILINE: Invisible Plausibly-Deniable Storage <br>
+S. Pinjala, B. Carbunar, A. Chakraborti, R. Sion <br>
+IEEE Symposium on Security \& Privacy (S\&P'24)
 
-* [Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention](https://arxiv.org/pdf/2311.17400.pdf) <br>
-Lujia Shen, Yuwen Pu, Shouling Ji, Changjiang Li, Xuhong Zhang, Chunpeng Ge, Ting Wang <br>
-Network and Distributed System Security Symposium (NDSS'24)
-
-* [Model Extraction Attacks Revisited]() <br>
-Jiacheng Liang, Ren Pang, Changjiang Li, Ting Wang <br>
-ACM ASIA Conference on Computer and Communications Security (ASIACCS'24)
-
-* [Generative AI in the Wild: Prospects, Challenges, and Strategies]() <br>
-Yuan Sun, Eunchae Jang, Fenglong Ma, Ting Wang <br>
-ACM CHI Conference on Human Factors in Computing Systems (CHI'24)
-
-*  [ReMasker: Imputing Tabular Data with Masked Autoencoding](https://arxiv.org/pdf/2309.13793.pdf) [[code](https://github.com/tydusky/remasker)] <br>
-Tianyu Du, Luca Melis, Ting Wang <br>
-International Conference on Learning Representations (ICLR'24)
-
-* [Backdoor Contrastive Learning via Bi-level Trigger Optimization](https://openreview.net/pdf?id=oxjeePpgSP) <br>
-Weiyu Sun, Xinyu Zhang, Hao Lu, Ying-Cong Chen, Ting Wang, Jinghui Chen, Lu Lin <br>
-International Conference on Learning Representations (ICLR'24)
-
-* [PromptFix: Few-shot Backdoor Removal via Adversarial Prompt Tuning]() <br>
-Tianrong Zhang, Zhaohan Xi, Prasenjit Mitra, Ting Wang, Jinghui Chen <br> 
-Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL'24)
-
-* [VQAttack: Transferable Adversarial Attacks on Visual Question Answering via Pre-trained Models]() <br>
-Ziyi Yin, Muchao Ye, Tianrong Zhang, Jiaqi Wang, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma <br>
-AAAI Conference on Artificial Intelligence  (AAAI'24)
-
-* [Inspecting Prediction Confidence for Detecting Black-box Backdoor Attacks]() <br>
-Tong Wang, Yuan Yao, Feng Xu, Miao Xu, Shengwei An, Ting Wang <br>
-AAAI Conference on Artificial Intelligence  (AAAI'24)
