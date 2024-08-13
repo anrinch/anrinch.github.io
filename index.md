@@ -8,6 +8,9 @@ I am an assistant professor in the Department of Computer Science at [University
 
 Before joining UIC, I was a postdoctoral research associate in the Department of Computer Science at [Duke University](https://cs.duke.edu) working with [Prof. Michael Reiter](https://reitermk.github.io/). I obtained my PhD from [Stony Brook University](https://www.cs.stonybrook.edu) where I was advised by [Prof. Radu Sion](https://zxr.io/). Even before that I obtained my undergraduate degree in Computer Science from [Jadavpur University](https://en.wikipedia.org/wiki/Jadavpur_University), India
 
+
+<p style="color:DodgerBlue;"> I am recruiting 2 - 3 PhD students for 2025. If you want to build secure systems, develop new cryptographic theory, or simply want to chat about other computer security-related research ideas, feel free to reach out.</p>
+
 {% include_relative _includes/research.md %}
 
 
