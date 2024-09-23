@@ -6,7 +6,7 @@ layout: homepage
 ## Full List of Publications
 
 
-* INVISILINE: Invisible Plausibly-Deniable Storage <br>
+* INVISILINE: Invisible Plausibly-Deniable Storage(https://users.cs.fiu.edu/~carbunar/invisiline.pdf) <br>
 S. Pinjala, B. Carbunar, A. Chakraborti, R. Sion <br>
 IEEE Symposium on Security & Privacy (S&P '24)
 
