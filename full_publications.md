@@ -1,5 +1,5 @@
 ---
-layout: linked_page
+layout: homepage
 ---
 
 <!-- <h2 id="full-publications" style="margin: 2px 0px 15px;">Full List of Publications</h2> -->
