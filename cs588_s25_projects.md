@@ -2,7 +2,7 @@
 layout: linked_page
 ---
 
-## Project ##
+## Description ##
 
 The course project makes up majority of points in the course. The project has 70 points alloted to it which will be split into the following three components 
 
@@ -10,11 +10,11 @@ The course project makes up majority of points in the course. The project has 70
 2. Project design presentation: 15 points 
 3. Project report: 5 points 
 
-The project can be done either in single person group, or in larger groups (max size 3 people). You may select one of the projects out of the proposals listed below; note that some projects are intended for single person groups only. You can also propose a project of your own if you think it fits the goals of this course (you need to email me asap if you are planning to do so). Please decide by THU (02/06) and send me an email with the project you plan to implement, along with details of your group (one person from each group can email). Please mark in your subject "CS588:Project Proposal:".  
+The project can be done either in single person group, or in larger groups (max size 3 people). You may select one of the projects out of the proposals listed below. Note that some projects are intended for single person groups only and should *not* be attempted by larger groups (single-person). You can also propose a project of your own if you think it fits the goals of this course (you need to email me asap if you are planning to do so). Please decide by THU (02/06) and send me an email with the project you plan to implement, along with details of your group (it suffices if one person per group sends an email). Please mark your subject as "CS588:Project Proposal:".  
 
 ## Project List ##
 
-1. **A lightweight system for certificate revocation** (CRLite)
+### A lightweight system for certificate revocation (CRLite)
 
 [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958597)
 
@@ -24,7 +24,7 @@ The public key infrastructure (PKI) enables browsers to authenticate websites by
 
 
 
-2. **A digital cash system**
+### A digital cash system
 
 [paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c93fc7d7ede08cdaa395d49824a55e68ff55f0e0)
 
@@ -34,7 +34,7 @@ Long before bitcoins existed, David Chaum had proposed the design of a digital c
 
  
 
-3. **End-to-end encrypted messaging**
+### End-to-end encrypted messaging
 
 [Signal](https://signal.org/docs/)
 
@@ -46,7 +46,7 @@ All messaging applications today are end-to-end encrypted, i.e., the messages ar
 
 
 
-4. **Callisto: A cryptographic approach to the #MeToo movement**
+### Callisto: A cryptographic approach to the #MeToo movement
 
 [paper](https://par.nsf.gov/servlets/purl/10061833)
 
@@ -56,7 +56,7 @@ Secure allegation escrows enable users to anonymously submit complaints/feedback
 
 
 
-5. **A simplied TOR anonymity network**
+### A simplied TOR anonymity network
 
 [paper](https://www.usenix.org/legacy/publications/library/proceedings/sec04/tech/full_papers/dingledine/dingledine.pdf)
 
@@ -66,7 +66,7 @@ The TOR browser (https://www.torproject.org) is used by millions of people to es
 
 
 
-6. **Securing a networked file system (SUNDR)** 
+### Securing a networked file system (SUNDR)
 
 [paper](https://www.usenix.org/legacy/event/osdi04/tech/full_papers/li_j/li_j.pdf)
 
@@ -76,7 +76,7 @@ SUNDR is a seminal paper in the field of secure distributed systems. It defines 
 
 
 
-7. **A distributed object store with integrity**
+### A distributed object store with integrity
 
 [paper](https://dl.acm.org/doi/pdf/10.1145/1281100.1281122)
 
@@ -86,7 +86,7 @@ Integrity is a critical goal when data is outsourced to untrusted servers. While
 
 
 
-8. **An oblivious data store**
+### An oblivious data store
 
 [paper](https://eprint.iacr.org/2013/280.pdf)
 
