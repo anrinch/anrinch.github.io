@@ -8,7 +8,8 @@ layout: homepage
 * Automatic Teller Machines for Offline E-Cash <br>
 A. Chakraborti, Q. Zhang, J. Peng, Z. Mao, M. K. Reiter <br>
 International Conference on Applied
-Cryptography and Network Security (ACNS 2026, to appear)
+Cryptography and Network Security (ACNS '26) <br>
+(to appear)
 
 
 * [INVISILINE: Invisible Plausibly-Deniable Storage](https://users.cs.fiu.edu/~carbunar/invisiline.pdf) <br>
