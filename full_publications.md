@@ -5,6 +5,10 @@ layout: homepage
 <!-- <h2 id="full-publications" style="margin: 2px 0px 15px;">Full List of Publications</h2> -->
 ## Full List of Publications
 
+* Automatic Teller Machines for Offline E-Cash <br>
+A. Chakraborti, Q. Zhang, J. Peng, Z. Mao, M. K. Reiter <br>
+Applied Cryptography and Network Security (2026, to appear)
+
 
 * [INVISILINE: Invisible Plausibly-Deniable Storage](https://users.cs.fiu.edu/~carbunar/invisiline.pdf) <br>
 S. Pinjala, B. Carbunar, A. Chakraborti, R. Sion <br>
@@ -78,3 +82,12 @@ Foundations and Trends in Privacy and Security
 * Secure Data Outsourcing <br>
 A. Chakraborti, R. Sion <br>
 Encyclopedia of Cryptography, Security and Privacy
+
+
+#### Preprints
+
+* [Blocklisted Oblivious Pseudorandom Functions](https://arxiv.org/abs/2507.16040) <br>
+X. Zhang, A. Chakraborti, M. K. Reiter
+
+
+ 
