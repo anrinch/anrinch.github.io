@@ -5,11 +5,18 @@ layout: homepage
 <!-- <h2 id="full-publications" style="margin: 2px 0px 15px;">Full List of Publications</h2> -->
 ## Full List of Publications
 
-* Automatic Teller Machines for Offline E-Cash <br>
+* [Half-Moon Cookie: Private, Similarity-Based Blocklisting with TOCTOU-Attack Resilience
+](https://arxiv.org/abs/2604.15641) <br>
+X. Zhang, A. Chakraborti, M. K. Reiter <br>
+European Symposium on Research in Computer Security (ESORICS '26) <br>
+(to appear) <br>
+
+
+* [Automatic Teller Machines for Offline E-Cash](https://arxiv.org/pdf/2604.10380) <br>
 A. Chakraborti, Q. Zhang, J. Peng, Z. Mao, M. K. Reiter <br>
 International Conference on Applied
 Cryptography and Network Security (ACNS '26) <br>
-(to appear)
+
 
 
 * [INVISILINE: Invisible Plausibly-Deniable Storage](https://users.cs.fiu.edu/~carbunar/invisiline.pdf) <br>
