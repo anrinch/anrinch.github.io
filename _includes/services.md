@@ -4,7 +4,7 @@
 
 <h4 style="margin:0 10px 0;">Organization</h4>
 
-Poster Chair,  <li><a href="https://acns2026.github.io/"><autocolor>Applied Cryptography and Network Security (ACNS) 2026</autocolor></a></li>
+Poster Chair,  <a href="https://acns2026.github.io/">Applied Cryptography and Network Security (ACNS) 2026</a>
 
 <h4 style="margin:0 10px 0;">Program Committee</h4>
 
