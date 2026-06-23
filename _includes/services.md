@@ -4,7 +4,11 @@
 
 <h4 style="margin:0 10px 0;">Organization</h4>
 
-Poster Chair,  <a href="https://acns2026.github.io/">Applied Cryptography and Network Security (ACNS) 2026</a>
+<ul style="margin:0 0 5px;">
+<li>Poster Chair,  <a href="https://acns2026.github.io/"><autocolor>Applied Cryptography and Network Security (ACNS) 2026</autocolor></a></li>
+</ul>
+
+
 
 <h4 style="margin:0 10px 0;">Program Committee</h4>
 
@@ -14,4 +18,3 @@ Poster Chair,  <a href="https://acns2026.github.io/">Applied Cryptography and Ne
   <li><a href="https://www.sigsac.org/ccs/CCS2025/"><autocolor> The ACM Conference on Computer and Communications Security (CCS) 2025,2026</autocolor></a></li>
   <li><a href="https://petsymposium.org/cfp26.php"><autocolor> Privacy Enhancing Technologies Symposium (PETS) 2026, 2027</autocolor></a></li>	
 </ul>
-
