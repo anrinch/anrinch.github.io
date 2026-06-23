@@ -15,5 +15,6 @@ Before joining UIC, I was a postdoctoral research associate in the Department of
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/services.md %}
 
 {% include_relative _includes/teaching.md %}
